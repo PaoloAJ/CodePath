@@ -2,7 +2,7 @@
 
 Submitted by: Anilov Villanueva
 
-About this web app: **👉🏿 app description here**
+About this web app: **creator verse is a web application that lets you curate and manage your favorite content creators in one place. built with react and supabase, the app provides an intuitive interface to add, view, edit, and delete creator profiles. each creator card displays their name, description, profile image, and a linktree link for easy access to their content. the app features a clean, responsive design using picocss with dark/light mode support, making it simple to organize and discover creators you follow across different platforms.**
 
 Time spent: 3-4 hours
 
@@ -36,8 +36,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
-
-👉🏿<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+Youtube: https://youtu.be/XWjBwZ_5PRY
 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
@@ -46,7 +45,7 @@ Here's a walkthrough of implemented required features:
 
 ## Notes
 
-My main challenges was designing the UI and how to allign the cards properly on the main page. More specifically, I struggled on creating the grid and finding the optimal size to fit the profile picture, description, etc.
+My main challenges was designing the UI and how to allign the cards properly on the main page. More specifically, I struggled on creating the grid and finding the optimal size to fit the profile picture, description, etc. So I just ended up using vertical grid.
 
 ## License
 
